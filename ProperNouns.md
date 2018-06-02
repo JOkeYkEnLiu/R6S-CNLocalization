@@ -91,7 +91,7 @@
  12. KANAL = 运河
  13. OREGON = 俄勒冈乡间屋宅
  14. PRESIDENTIAL PLANE = 总统专机
- 15. SKYSCRAPER = 摩天大楼
+ 15. SKYSCRAPER = 空中阁楼
  16. THEME PARK = 主题公园
     1. 1F Haunted Stairs = 一楼闹鬼楼梯
  17. TOWER = 塔楼
